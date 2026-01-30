@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Copy of ITALIANO Motorcycles Management",
+  "description": "A professional workshop management app for motorcycle inspections, tracking status, and generating reports with an Italian-themed aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
